@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/nezihakin/PythonWorkspace/genre_classification/mlruns/0/1477c1ffe9d342ce84902df21cf09279/artifacts
+end_time: 1690236233731
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1477c1ffe9d342ce84902df21cf09279
+run_name: awesome-sheep-571
+run_uuid: 1477c1ffe9d342ce84902df21cf09279
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690236188133
+status: 3
+tags: []
+user_id: nezihakin

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/nezihakin/PythonWorkspace/genre_classification/mlruns/0/4d982eed3b2d497e98758ab49f9c1c1c/artifacts
+end_time: 1690236128943
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4d982eed3b2d497e98758ab49f9c1c1c
+run_name: persistent-mare-356
+run_uuid: 4d982eed3b2d497e98758ab49f9c1c1c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690236096042
+status: 3
+tags: []
+user_id: nezihakin

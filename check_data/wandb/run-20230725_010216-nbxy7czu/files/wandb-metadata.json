@@ -1,0 +1,51 @@
+{
+    "os": "macOS-13.4.1-x86_64-i386-64bit",
+    "python": "3.9.16",
+    "heartbeatAt": "2023-07-24T22:02:17.313646",
+    "startedAt": "2023-07-24T22:02:16.019310",
+    "docker": null,
+    "cuda": null,
+    "args": [
+        "-s",
+        "-vv",
+        ".",
+        "--reference_artifact",
+        "exercise_14/preprocessed_data.csv:latest",
+        "--sample_artifact",
+        "preprocessed_data.csv:latest",
+        "--ks_alpha",
+        "0.05"
+    ],
+    "state": "running",
+    "program": "/Users/nezihakin/opt/anaconda3/envs/mlflow-4bdb2f51ceb8dada5c8bab1c954499a3f7a926b3/bin/pytest",
+    "git": {
+        "remote": "https://github.com/NezihAkin/genre_classification.git",
+        "commit": "cd7e4898ec0c5c6e940289fa678213c85fac0f23"
+    },
+    "email": "akinnezih@gmail.com",
+    "root": "/Users/nezihakin/PythonWorkspace/genre_classification",
+    "host": "Nezih-MBP",
+    "username": "nezihakin",
+    "executable": "/Users/nezihakin/opt/anaconda3/envs/mlflow-4bdb2f51ceb8dada5c8bab1c954499a3f7a926b3/bin/python",
+    "cpu_count": 4,
+    "cpu_count_logical": 8,
+    "cpu_freq": {
+        "current": 1400,
+        "min": 1400,
+        "max": 1400
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 1400,
+            "min": 1400,
+            "max": 1400
+        }
+    ],
+    "disk": {
+        "total": 233.46913528442383,
+        "used": 8.439777374267578
+    },
+    "memory": {
+        "total": 8.0
+    }
+}

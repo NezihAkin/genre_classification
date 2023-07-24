@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/nezihakin/PythonWorkspace/genre_classification/mlruns/0/0131b65cfb6f4551a23dea7d37ac2e30/artifacts
+end_time: 1690238696164
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0131b65cfb6f4551a23dea7d37ac2e30
+run_name: invincible-cub-125
+run_uuid: 0131b65cfb6f4551a23dea7d37ac2e30
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690236233776
+status: 3
+tags: []
+user_id: nezihakin

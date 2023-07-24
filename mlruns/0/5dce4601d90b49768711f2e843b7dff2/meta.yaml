@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/nezihakin/PythonWorkspace/genre_classification/mlruns/0/5dce4601d90b49768711f2e843b7dff2/artifacts
+end_time: 1690236152087
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5dce4601d90b49768711f2e843b7dff2
+run_name: calm-foal-598
+run_uuid: 5dce4601d90b49768711f2e843b7dff2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690236128972
+status: 3
+tags: []
+user_id: nezihakin

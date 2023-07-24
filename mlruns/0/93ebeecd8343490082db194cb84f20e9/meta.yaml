@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/nezihakin/PythonWorkspace/genre_classification/mlruns/0/93ebeecd8343490082db194cb84f20e9/artifacts
+end_time: 1690236096014
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 93ebeecd8343490082db194cb84f20e9
+run_name: luxuriant-rook-15
+run_uuid: 93ebeecd8343490082db194cb84f20e9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690236063061
+status: 3
+tags: []
+user_id: nezihakin
