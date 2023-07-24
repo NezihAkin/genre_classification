@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/nezihakin/PythonWorkspace/genre_classification/mlruns/0/1c39b27ab1d1443aa4389524918fed78/artifacts
+end_time: 1690231470100
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1c39b27ab1d1443aa4389524918fed78
+run_name: dashing-hare-697
+run_uuid: 1c39b27ab1d1443aa4389524918fed78
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690231451738
+status: 3
+tags: []
+user_id: nezihakin

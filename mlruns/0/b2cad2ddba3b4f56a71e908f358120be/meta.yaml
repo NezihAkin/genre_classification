@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/nezihakin/PythonWorkspace/genre_classification/mlruns/0/b2cad2ddba3b4f56a71e908f358120be/artifacts
+end_time: 1690231451713
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b2cad2ddba3b4f56a71e908f358120be
+run_name: persistent-donkey-55
+run_uuid: b2cad2ddba3b4f56a71e908f358120be
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690231430180
+status: 3
+tags: []
+user_id: nezihakin

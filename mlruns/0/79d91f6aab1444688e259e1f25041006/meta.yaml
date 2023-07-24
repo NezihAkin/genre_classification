@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/nezihakin/PythonWorkspace/genre_classification/mlruns/0/79d91f6aab1444688e259e1f25041006/artifacts
+end_time: 1690234860934
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 79d91f6aab1444688e259e1f25041006
+run_name: silent-snipe-425
+run_uuid: 79d91f6aab1444688e259e1f25041006
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690232325637
+status: 3
+tags: []
+user_id: nezihakin

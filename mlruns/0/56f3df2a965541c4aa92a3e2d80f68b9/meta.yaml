@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/nezihakin/PythonWorkspace/genre_classification/mlruns/0/56f3df2a965541c4aa92a3e2d80f68b9/artifacts
+end_time: 1690226831374
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 56f3df2a965541c4aa92a3e2d80f68b9
+run_name: welcoming-mole-453
+run_uuid: 56f3df2a965541c4aa92a3e2d80f68b9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690226810260
+status: 3
+tags: []
+user_id: nezihakin

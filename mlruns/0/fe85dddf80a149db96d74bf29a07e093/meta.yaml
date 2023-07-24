@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/nezihakin/PythonWorkspace/genre_classification/mlruns/0/fe85dddf80a149db96d74bf29a07e093/artifacts
+end_time: 1690229699386
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fe85dddf80a149db96d74bf29a07e093
+run_name: intrigued-mole-572
+run_uuid: fe85dddf80a149db96d74bf29a07e093
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690229677045
+status: 3
+tags: []
+user_id: nezihakin

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/nezihakin/PythonWorkspace/genre_classification/mlruns/0/3143a87affa243299b8a51f72591b8a8/artifacts
+end_time: 1690229119154
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3143a87affa243299b8a51f72591b8a8
+run_name: valuable-rat-869
+run_uuid: 3143a87affa243299b8a51f72591b8a8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690228466926
+status: 4
+tags: []
+user_id: nezihakin

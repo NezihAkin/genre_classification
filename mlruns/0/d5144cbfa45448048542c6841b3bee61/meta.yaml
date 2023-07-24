@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/nezihakin/PythonWorkspace/genre_classification/mlruns/0/d5144cbfa45448048542c6841b3bee61/artifacts
+end_time: 1690230755677
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d5144cbfa45448048542c6841b3bee61
+run_name: carefree-fox-513
+run_uuid: d5144cbfa45448048542c6841b3bee61
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690230733844
+status: 3
+tags: []
+user_id: nezihakin

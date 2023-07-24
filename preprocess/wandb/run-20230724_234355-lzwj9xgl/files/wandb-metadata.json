@@ -1,0 +1,51 @@
+{
+    "os": "macOS-13.4.1-x86_64-i386-64bit",
+    "python": "3.9.16",
+    "heartbeatAt": "2023-07-24T20:43:56.761832",
+    "startedAt": "2023-07-24T20:43:55.561964",
+    "docker": null,
+    "cuda": null,
+    "args": [
+        "--input_artifact",
+        "raw_data.parquet:latest",
+        "--artifact_name",
+        "preprocessed_data.csv",
+        "--artifact_type",
+        "preprocessed_data",
+        "--artifact_description",
+        "Preprocessed Data"
+    ],
+    "state": "running",
+    "program": "/Users/nezihakin/PythonWorkspace/genre_classification/preprocess/run.py",
+    "codePath": "preprocess/run.py",
+    "git": {
+        "remote": "https://github.com/NezihAkin/genre_classification.git",
+        "commit": "a645745327a2a14c99b89a88db0e79d509674b0e"
+    },
+    "email": "akinnezih@gmail.com",
+    "root": "/Users/nezihakin/PythonWorkspace/genre_classification",
+    "host": "Nezih-MBP",
+    "username": "nezihakin",
+    "executable": "/Users/nezihakin/opt/anaconda3/envs/mlflow-441310586806d3fb9ad513b0e8ea60336c15afd9/bin/python",
+    "cpu_count": 4,
+    "cpu_count_logical": 8,
+    "cpu_freq": {
+        "current": 1400,
+        "min": 1400,
+        "max": 1400
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 1400,
+            "min": 1400,
+            "max": 1400
+        }
+    ],
+    "disk": {
+        "total": 233.46913528442383,
+        "used": 8.439777374267578
+    },
+    "memory": {
+        "total": 8.0
+    }
+}

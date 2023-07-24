@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/nezihakin/PythonWorkspace/genre_classification/mlruns/0/fbdbbf07d92e43ee8b99bee1cf4bbff4/artifacts
+end_time: 1690226939488
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fbdbbf07d92e43ee8b99bee1cf4bbff4
+run_name: shivering-skunk-237
+run_uuid: fbdbbf07d92e43ee8b99bee1cf4bbff4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690226919547
+status: 3
+tags: []
+user_id: nezihakin

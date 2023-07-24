@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/nezihakin/PythonWorkspace/genre_classification/mlruns/0/155fefd05dda42c08e39d8005fbcf297/artifacts
+end_time: 1690229928810
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 155fefd05dda42c08e39d8005fbcf297
+run_name: amusing-boar-49
+run_uuid: 155fefd05dda42c08e39d8005fbcf297
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690229699411
+status: 3
+tags: []
+user_id: nezihakin

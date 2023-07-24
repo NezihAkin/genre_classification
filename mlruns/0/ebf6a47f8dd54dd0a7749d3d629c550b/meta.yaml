@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/nezihakin/PythonWorkspace/genre_classification/mlruns/0/ebf6a47f8dd54dd0a7749d3d629c550b/artifacts
+end_time: 1690226281810
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ebf6a47f8dd54dd0a7749d3d629c550b
+run_name: bittersweet-sow-663
+run_uuid: ebf6a47f8dd54dd0a7749d3d629c550b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690226208218
+status: 3
+tags: []
+user_id: nezihakin

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/nezihakin/PythonWorkspace/genre_classification/mlruns/0/0c7c6145aa2d4a47a9d7d1642e69181c/artifacts
+end_time: 1690231712285
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0c7c6145aa2d4a47a9d7d1642e69181c
+run_name: popular-zebra-649
+run_uuid: 0c7c6145aa2d4a47a9d7d1642e69181c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690231470129
+status: 3
+tags: []
+user_id: nezihakin

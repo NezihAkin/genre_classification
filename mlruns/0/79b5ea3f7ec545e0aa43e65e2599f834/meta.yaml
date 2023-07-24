@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/nezihakin/PythonWorkspace/genre_classification/mlruns/0/79b5ea3f7ec545e0aa43e65e2599f834/artifacts
+end_time: 1690227397528
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 79b5ea3f7ec545e0aa43e65e2599f834
+run_name: delightful-grub-762
+run_uuid: 79b5ea3f7ec545e0aa43e65e2599f834
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690226939513
+status: 4
+tags: []
+user_id: nezihakin

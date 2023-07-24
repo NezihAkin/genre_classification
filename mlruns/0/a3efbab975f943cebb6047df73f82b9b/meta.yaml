@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/nezihakin/PythonWorkspace/genre_classification/mlruns/0/a3efbab975f943cebb6047df73f82b9b/artifacts
+end_time: 1690224749757
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: a3efbab975f943cebb6047df73f82b9b
+run_uuid: a3efbab975f943cebb6047df73f82b9b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690224324711
+status: 4
+tags: []
+user_id: nezihakin
